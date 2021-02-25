@@ -1,2 +1,2 @@
 # AutoModV2
-Version 2 of Automod, currently in development!
+Version 2 of AutoMod, currently in development!
